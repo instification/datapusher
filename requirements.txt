@@ -5,3 +5,4 @@ messytables==0.15.2
 certifi
 requests[security]==2.27.1
 flask==2.1.3
+werkzeug==2.2.2
